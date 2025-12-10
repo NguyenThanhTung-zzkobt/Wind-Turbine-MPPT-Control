@@ -1,3 +1,4 @@
+Please note that this is only for school project , if you have any problem about copyright or ownership please contact me right away !!
 # Wind Turbine MPPT Controller Design
 
 ## Overview
@@ -23,7 +24,7 @@ This project models a wind turbine energy conversion system and implements a Max
 <img width="980" height="798" alt="image" src="https://github.com/user-attachments/assets/9f3f0f3c-c569-4daa-854f-a6a12debfb26" />
 
 *Graphs showing the controllers tracking the maximum power curve.*
-
+*These are only the result of two main methods, in the project there are also two other methods which are only AI application on improving efficiency. And if you're interested, you can improve them for better performance
 ## How to Run
 1. Open `pid_testing.slx` in MATLAB/Simulink (Version 2019b or later).
 2. Run the `PID.m` script to initialize variables.
